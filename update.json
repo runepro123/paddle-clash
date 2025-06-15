@@ -1,4 +1,11 @@
 {
+  "android": {
     "version": "1.0.1",
-    "url": "https://github.com/yourusername/pong_game/releases/download/v1.0.1/pong_game.apk"
+    "url": "https://your-link.com/pong_game-android-1.0.1.apk"
+  },
+  "windows": {
+    "version": "0.0.1 beta",
+    "url": "https://drive.google.com/uc?export=download&id=1Wgrlv4iAnRuIINF81KAaaoPBdvQpsbRQ",
+    "exe": "pong_game.exe"
   }
+}
